@@ -1,0 +1,15 @@
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\Framework.dll
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\Framework.pdb
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\Castle.Core.dll
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\log4net.dll
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\TestStack.White.dll
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\Castle.Core.xml
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\log4net.xml
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\TestStack.White.pdb
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\bin\Debug\TestStack.White.xml
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\obj\Debug\Framework.csproj.CopyComplete
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\obj\Debug\Framework.dll
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\obj\Debug\Framework.pdb
+C:\Users\Evgenij\source\repos\DesctopCalcultator\Framework\obj\Debug\Framework.csprojAssemblyReference.cache

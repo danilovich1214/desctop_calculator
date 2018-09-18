@@ -1,0 +1,48 @@
+Get processes by name 'calc1'
+There are no processes
+Launching application by path C:\Windows\System32\calc1.exe
+Switch to window 'Calculator'
+Main calculator form :: Assertion that form is open by searching element
+Main calculator form :: Form is open
+Open sub menu by path View=>Standard
+Number 1 Button :: Click()
+Number 2 Button :: Click()
+Add Button :: Click()
+Number 9 Button :: Click()
+Number 9 Button :: Click()
+Number 9 Button :: Click()
+Equals Button :: Click()
+Memory Add Button :: Click()
+Number 1 Button :: Click()
+Number 9 Button :: Click()
+Add Button :: Click()
+Memory Recall Button :: Click()
+Equals Button :: Click()
+Result text Label :: GetText()
+Result text Label :: Element text = 1030
+Take screenshot, screenshot name => 09.17.2018 01_34_41.906
+Closing application
+Get processes by name 'calc1'
+There are no processes
+Launching application by path C:\Windows\System32\calc1.exe
+Switch to window 'Calculator'
+Main calculator form :: Assertion that form is open by searching element
+Main calculator form :: Form is open
+Open sub menu by path View=>Scientific
+Number 1 Button :: Click()
+Number 2 Button :: Click()
+Add Button :: Click()
+Number 9 Button :: Click()
+Number 9 Button :: Click()
+Number 9 Button :: Click()
+Equals Button :: Click()
+Memory Add Button :: Click()
+Number 1 Button :: Click()
+Number 9 Button :: Click()
+Add Button :: Click()
+Memory Recall Button :: Click()
+Equals Button :: Click()
+Result text Label :: GetText()
+Result text Label :: Element text = 1030
+Take screenshot, screenshot name => 09.17.2018 01_34_46.096
+Closing application
